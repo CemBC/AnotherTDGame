@@ -33,10 +33,3 @@ A key development challenge was the cost of representing every projectile as an 
 3. Select **Add project from disk**.
 4. Open the cloned project folder.
 5. Open the main menu scene and press Play.
-
-## Author
-
-**Cem Başar Ceylani**
-
-- GitHub: [CemBC](https://github.com/CemBC)
-- Portfolio: [cembc.github.io/CemBasarCeylani](https://cembc.github.io/CemBasarCeylani)
